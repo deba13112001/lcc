@@ -1,2 +1,0 @@
-# lcc
-lcc web
